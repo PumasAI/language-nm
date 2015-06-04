@@ -1,0 +1,14 @@
+{
+  "name": "language-nm",
+  "version": "0.0.1",
+  "description": "Syntax highlighter for NONMEM in Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/umctm/language-nm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
